@@ -4,17 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DishRaterActivity">
-
-    <ListView
-        android:id="@+id/dishList"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:dividerHeight="40dp"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp">
-
-
-    </ListView>
+    tools:context=".DishRater2Activity">
 
 </android.support.constraint.ConstraintLayout>

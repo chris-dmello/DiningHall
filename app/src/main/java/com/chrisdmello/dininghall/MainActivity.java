@@ -24,8 +24,14 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, FeedbackActivity.class);
         startActivity(intent);
     }
+
     public void GOTODishRaterActivity(View view) {
-        Intent intent = new Intent(this, DishRaterActivity.class);
+        Intent intent = new Intent(this, DishRater2Activity.class);
+        startActivity(intent);
+    }
+
+    public void GOTOMenuPollerActivity(View view) {
+        Intent intent = new Intent(this, MenuPollerActivity.class);
         startActivity(intent);
     }
 }
