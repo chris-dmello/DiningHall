@@ -10,6 +10,5 @@ public class BuddyFinderActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_buddy_finder);
 
-        // Hello
     }
 }

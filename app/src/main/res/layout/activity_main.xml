@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-    https://docs.google.com/document/d/1tfqNnX3UhEsNqsKt_X5XJuARW9REJ3S9h336TebG0qc/edit?usp=sharing
+
     <Button
         android:id="@+id/button1"
         android:layout_width="match_parent"
@@ -35,6 +35,7 @@
         android:layout_marginTop="10dp"
         android:layout_height="56dp"
         android:text="Find a dining buddy"
+        android:onClick="GOTOBuddyFinderActivity"
         android:background="@color/colorAccent" />
 
 
