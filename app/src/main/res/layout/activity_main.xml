@@ -49,6 +49,7 @@
         android:layout_marginBottom="8dp"
         android:background="@color/colorAccent"
         android:text="Feedback"
+        android:onClick="GOTOFeedbackActivity"
         app:layout_constraintBottom_toTopOf="@+id/button2"/>
 
 </LinearLayout>

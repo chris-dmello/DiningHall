@@ -18,4 +18,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, BuddyFinderActivity.class);
         startActivity(intent);
     }
+
+
+    public void GOTOFeedbackActivity(View view) {
+        Intent intent = new Intent(this, FeedbackActivity.class);
+        startActivity(intent);
+    }
 }
