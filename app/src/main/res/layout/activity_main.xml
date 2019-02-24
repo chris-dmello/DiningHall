@@ -17,6 +17,7 @@
         android:layout_height="56dp"
         android:text="Rate the dishes"
         android:background="@color/colorAccent" />
+
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
