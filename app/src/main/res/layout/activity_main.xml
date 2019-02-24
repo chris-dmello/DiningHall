@@ -16,6 +16,7 @@
         android:layout_marginTop="10dp"
         android:layout_height="56dp"
         android:text="Rate the dishes"
+        android:onClick="GOTODishRaterActivity"
         android:background="@color/colorAccent" />
 
     <Button
